@@ -1,6 +1,6 @@
-# CourseraProgram--GoogleITAutomation--exercise_fork
+# CourseraProgram--GoogleITAutomation--assignment_forkrepo
 
-A forked copy of the repo below for an exercise for the _Google IT Automation with Python program_ on Coursera.
+A forked copy of the repo below created for the _Google IT Automation with Python_ program on Coursera.
 
 
 ### Google IT Automation with Python Professional Certificate - Practice files
