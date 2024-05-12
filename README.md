@@ -1,6 +1,6 @@
-# CourseraProgram--GoogleITAutomation--assignment_forkrepo
+# Purpose
 
-A forked copy of the repo below created for the _Google IT Automation with Python_ program on Coursera.
+This is a forked repo created for the _Google IT Automation with Python_ program on Coursera.
 
 
 ### Google IT Automation with Python Professional Certificate - Practice files
