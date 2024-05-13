@@ -1,6 +1,6 @@
 # Purpose
 
-This is a forked repo created for the _Google IT Automation with Python_ program on Coursera.
+This is a forked repo created for the 3rd course of the _Google IT Automation with Python_ program on Coursera.
 
 # Google IT Automation with Python Professional Certificate - Practice files
 
